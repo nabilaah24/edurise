@@ -1,0 +1,198 @@
+{
+  "categories": [
+    { "id": 1, "name": "IT" },
+    { "id": 2, "name": "Bisnis" },
+    { "id": 3, "name": "Desain" },
+    { "id": 4, "name": "Pemrograman" },
+    { "id": 5, "name": "Keuangan" },
+    { "id": 6, "name": "Marketing" },
+    { "id": 7, "name": "Fotografi" }
+  ],
+  "subCategories": [
+    { "id": 1, "name": "Pemrograman Website", "idCategory": 1 },
+    { "id": 2, "name": "Startup", "idCategory": 2 },
+    { "id": 3, "name": "Interior Design", "idCategory": 3 },
+    { "id": 4, "name": "Data Science", "idCategory": 1 },
+    { "id": 5, "name": "Digital Business", "idCategory": 2 },
+    { "id": 6, "name": "Akuntansi", "idCategory": 5 },
+    { "id": 7, "name": "Investasi", "idCategory": 5 },
+    { "id": 8, "name": "UX/UI", "idCategory": 3 },
+    { "id": 9, "name": "Social Media Marketing", "idCategory": 6 },
+    { "id": 10, "name": "Content Creation", "idCategory": 6 },
+    { "id": 11, "name": "Dasar Fotografi", "idCategory": 7 },
+    { "id": 12, "name": "Photo Editing", "idCategory": 7 },
+    { "id": 13, "name": "Pemrograman Mobile", "idCategory": 1 },
+    { "id": 14, "name": "Framer", "idCategory": 1 },
+    { "id": 15, "name": "Webflow", "idCategory": 1 }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Belajar Pemrograman di Tahun 2025",
+      "idCategory": 1,
+      "idSubCategory": 1,
+      "chapter": "10. Perkenalan dengan CSS"
+    },
+    {
+      "id": 2,
+      "name": "Membangun Restoran di Tahun 2025",
+      "idCategory": 2,
+      "idSubCategory": 2,
+      "chapter": "2. Pembuatan business model"
+    },
+    {
+      "id": 3,
+      "name": "Belajar Desain Interior",
+      "idCategory": 3,
+      "idSubCategory": 3,
+      "chapter": "5. Perkenalan dengan Autocad"
+    },
+    {
+      "id": 4,
+      "name": "Belajar Pemrograman Website Dasar",
+      "idCategory": 1,
+      "idSubCategory": 1,
+      "chapter": "1. Pengenalan HTML, CSS, dan JavaScript"
+    },
+    {
+      "id": 5,
+      "name": "Belajar Python Untuk Data Science",
+      "idCategory": 1,
+      "idSubCategory": 4,
+      "chapter": "3. Dasar Pemrograman Python"
+    },
+    {
+      "id": 6,
+      "name": "Membuat Business Model Canvas",
+      "idCategory": 2,
+      "idSubCategory": 2,
+      "chapter": "2. Pembuatan Business Model"
+    },
+    {
+      "id": 7,
+      "name": "Strategi Pemasaran Online",
+      "idCategory": 2,
+      "idSubCategory": 5,
+      "chapter": "5. Analisis Pasar"
+    },
+    {
+      "id": 8,
+      "name": "Dasar Akuntansi Dan Laporan Keuangan",
+      "idCategory": 5,
+      "idSubCategory": 6,
+      "chapter": "1. Pengenalan Akuntansi"
+    },
+    {
+      "id": 9,
+      "name": "Investasi Saham Untuk Pemula",
+      "idCategory": 5,
+      "idSubCategory": 7,
+      "chapter": "4. Analisis Fundamental"
+    },
+    {
+      "id": 10,
+      "name": "Belajar Desain Interior",
+      "idCategory": 3,
+      "idSubCategory": 3,
+      "chapter": "5. Perkenalan Dengan Autocad"
+    },
+    {
+      "id": 11,
+      "name": "UI/UX Design Fundamental",
+      "idCategory": 3,
+      "idSubCategory": 8,
+      "chapter": "3. Wireframing Dan Prototype"
+    },
+    {
+      "id": 12,
+      "name": "Digital Marketing Untuk Pemula",
+      "idCategory": 6,
+      "idSubCategory": 9,
+      "chapter": "9. Strategi Social Media Marketing"
+    },
+    {
+      "id": 13,
+      "name": "Content Marketing Dan Copywriting",
+      "idCategory": 6,
+      "idSubCategory": 10,
+      "chapter": "6. Membuat Konten Menarik"
+    },
+    {
+      "id": 14,
+      "name": "Fotografi Dasar Untuk Pemula",
+      "idCategory": 7,
+      "idSubCategory": 11,
+      "chapter": "2. Mengenal Kamera Dan Lensa"
+    },
+    {
+      "id": 15,
+      "name": "Editing Foto Dengan Lightroom",
+      "idCategory": 7,
+      "idSubCategory": 12,
+      "chapter": "7. Retouching Dan Filter"
+    },
+    {
+      "id": 16,
+      "name": "Belajar Pemrograman Mobile Dasar",
+      "idCategory": 1,
+      "idSubCategory": 13,
+      "chapter": "1. Pengenalan Pemrograman Mobile"
+    },
+    {
+      "id": 17,
+      "name": "Membuat Aplikasi Mobile Sederhana",
+      "idCategory": 1,
+      "idSubCategory": 13,
+      "chapter": "2. Layout dan UI Dasar"
+    },
+    {
+      "id": 18,
+      "name": "Menghubungkan API pada Aplikasi Mobile",
+      "idCategory": 1,
+      "idSubCategory": 13,
+      "chapter": "3. Fetch Data dan State Management"
+    },
+    {
+      "id": 19,
+      "name": "Belajar Framer Dasar",
+      "idCategory": 1,
+      "idSubCategory": 14,
+      "chapter": "1. Pengenalan Framer dan Interface"
+    },
+    {
+      "id": 20,
+      "name": "Animasi dan Interaksi di Framer",
+      "idCategory": 1,
+      "idSubCategory": 14,
+      "chapter": "2. Animasi Dasar dan Timeline"
+    },
+    {
+      "id": 21,
+      "name": "Membuat Prototipe Interaktif",
+      "idCategory": 1,
+      "idSubCategory": 14,
+      "chapter": "3. Interaksi dan Transisi"
+    },
+    {
+      "id": 22,
+      "name": "Belajar Webflow untuk Pemula",
+      "idCategory": 1,
+      "idSubCategory": 15,
+      "chapter": "1. Dasar-Dasar Webflow"
+    },
+    {
+      "id": 23,
+      "name": "Membuat Website Responsif",
+      "idCategory": 1,
+      "idSubCategory": 15,
+      "chapter": "2. Layout dan Grid System"
+    },
+    {
+      "id": 24,
+      "name": "Menghubungkan CMS dan Publikasi",
+      "idCategory": 1,
+      "idSubCategory": 15,
+      "chapter": "3. CMS dan Export"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "email": "emily@mail.com",
+      "username": "emily",
+      "password": "password123",
+      "whatsappNumber": "+81 9654313024",
+      "position": "Mahasiswa",
+      "avatar": "http://localhost:3000/avatar2.png"
+    },
+    {
+      "id": 2,
+      "firstName": "Michael",
+      "lastName": "Williams",
+      "email": "michael@mail.com",
+      "username": "michael",
+      "password": "password123",
+      "whatsappNumber": "+49 258-627-6644",
+      "position": "Enthusiast Developer",
+      "avatar": "http://localhost:3000/avatar.png"
+    }
+  ]
+}

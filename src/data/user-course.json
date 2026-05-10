@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "courseId": 1,
+      "userId": 1,
+      "progress": 100
+    },
+    {
+      "id": 2,
+      "courseId": 2,
+      "userId": 1,
+      "progress": 25
+    },
+    {
+      "id": 3,
+      "courseId": 3,
+      "userId": 1,
+      "progress": 0
+    }
+  ]
+}

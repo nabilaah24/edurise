@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "userId": 1,
+      "email": {
+        "weeklyReport": false,
+        "certificateAchievement": false,
+        "latestCourseRecommendations": false
+      },
+      "whatsapp": {
+        "motivationalMessage": false
+      }
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "email": {
+        "weeklyReport": false,
+        "certificateAchievement": false,
+        "latestCourseRecommendations": false
+      },
+      "whatsapp": {
+        "motivationalMessage": false
+      }
+    }
+  ]
+}
