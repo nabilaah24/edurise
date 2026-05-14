@@ -42,7 +42,7 @@ function CourseClient({ course, courseCategory, searchParams }: CourseProps) {
 
     const queryParams = queryString.stringify(
       { ...searchParams, search: value.trim() },
-      { skipNull: true, skipEmptyString: true },
+      { skipNull: true, skipEmptyString: true, arrayFormat: "comma" },
     );
 
     debouncedRef.current = setTimeout(() => {
